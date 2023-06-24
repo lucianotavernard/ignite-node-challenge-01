@@ -12,7 +12,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/lucianotavernard/ignite-node-fundamentals.svg">
 </p>
 
-## :computer: Projeto
+## :computer: Project
 
 Module Challenge: Node.js Fundamentals
 
